@@ -10,10 +10,10 @@ Simple HTML and CSS structure for easy customization.
 HTML5
 
 CSS3
-Code
+## Code
 Check out the code section for all the code files.
 
-Run Locally
+## Run Locally
 git clone (https://github.com/Tanzila-Yaseen11/Travel-Login-Page-Html-and-CSS)
 
 Open index.html file with any Browser and you are good to go.
